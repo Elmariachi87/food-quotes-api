@@ -1,0 +1,44 @@
+{
+  "foodQuotes": [
+    {
+      "id": 0,
+      "quote": "Real food doesn't have ingredients, real food is ingredients.",
+      "author": "Jamie Oliver"
+    },
+    {
+      "id": 1,
+      "quote": "Quote 2",
+      "author": "Jamie Oliver"
+    },
+    {
+      "id": 2,
+      "quote": "Quote 3 Real food doesn't have ingredients, real food is ingredients.",
+      "author": "Jamie Oliver"
+    },
+    {
+      "id": 3,
+      "quote": "Quote 4 Real food doesn't have ingredients, real food is ingredients.",
+      "author": "Jamie Oliver"
+    },
+    {
+      "id": 4,
+      "quote": "Quote 5 Real food doesn't have ingredients, real food is ingredients.",
+      "author": "Jamie Oliver"
+    },
+    {
+      "id": 5,
+      "quote": "Real food doesn't have ingredients, real food is ingredients.",
+      "author": "Jamie Oliver"
+    },
+    {
+      "id": 6,
+      "quote": "Real food doesn't have ingredients, real food is ingredients.",
+      "author": "Jamie Oliver"
+    },
+    {
+      "id": 7,
+      "quote": "Real food doesn't have ingredients, real food is ingredients.",
+      "author": "Jamie Oliver"
+    }
+  ]
+}
